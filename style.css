@@ -28,3 +28,11 @@ h6 {
     font-size: 18pt;
 }
 
+blockquote{
+    text-indent: 10%;
+    background-color: #FFFFA8;
+}
+
+ul{
+    list-style-type: "⭐";
+}
